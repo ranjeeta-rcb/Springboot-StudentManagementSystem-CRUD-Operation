@@ -1,6 +1,9 @@
 #Running steps for  the project 
-right click on project
-see for run as
-run on spring boot app
-and in browser write localhost:80 and enter
-see for the result
+1. right click on project
+2. see for run as
+3. run on spring boot app
+4. and in browser write localhost:80 and enter
+5. see for the result
+
+
+
