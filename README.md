@@ -1,4 +1,4 @@
-#Running steps for  the project 
+#Running steps for  the project  - IN ECLIPSE
 1. right click on project
 2. see for run as
 3. run on spring boot app
